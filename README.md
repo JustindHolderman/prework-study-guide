@@ -1,6 +1,7 @@
 # <Prework Study Guide Webpage>
 
-## This is a webpage created to help learn the basics of HTML, CSS, JavaScript, and Git(Hub). I used all of the aforementioned programs and languages to have a repository of notes on my learning.
+## Description
+This is a webpage created to help learn the basics of HTML, CSS, JavaScript, and Git(Hub). I used all of the aforementioned programs and languages to have a repository of notes on my learning.
 
 
 ## Table of Contents (Optional)
